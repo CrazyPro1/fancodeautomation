@@ -118,3 +118,18 @@
 2024-10-11 22:35:06.173 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
 2024-10-11 22:35:06.319 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
 2024-10-11 22:35:06.469 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 22:42:25.424 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 22:42:25.433 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 22:42:25.563 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 22:42:25.669 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 22:42:25.784 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 22:49:19.613 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 22:49:19.625 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 22:49:19.742 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 22:49:19.853 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 22:49:19.965 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 22:50:19.013 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 22:50:19.027 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 22:50:19.151 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 22:50:19.257 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 22:50:19.364 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
