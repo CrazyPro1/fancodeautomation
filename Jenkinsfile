@@ -16,20 +16,11 @@ pipeline {
         }
         stage('Test') {
             steps {
-                // Run tests using Maven
-                sh 'mvn test'
-            }
-        }
-        stage('Run Tests') {
-            steps {
-                // Ensure the test-output directory exists
+                // Run tests using Maven and redirect output to a report file
                 sh '''
-                    if [ ! -d "test-output" ]; then
-                        mkdir -p test-output
-                    fi
+                    mkdir -p test-output  // Ensure the directory exists
+                    mvn test > test-output/report.txt  // Run tests and generate report
                 '''
-                // Run your test command and redirect output to a report file
-                sh 'your-test-command > test-output/report.txt'  // Replace with the actual command
             }
         }
         stage('Report') {
@@ -38,7 +29,7 @@ pipeline {
                 publishHTML(target: [
                     reportName: 'Extent Report',
                     reportDir: 'test-output',
-                    reportFiles: 'index.html',
+                    reportFiles: 'index.html',  // Ensure this file exists after tests
                     keepAll: true
                 ])
             }
