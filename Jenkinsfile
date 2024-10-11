@@ -18,20 +18,26 @@ pipeline {
             steps {
                 // Run tests using Maven and redirect output to a report file
                 sh '''
-                    mkdir -p test-output  // Ensure the directory exists
-                    mvn -e test > test-output/report.txt  // Run tests and generate report
+                    mkdir -p test-output  # Ensure the directory exists
+                    mvn -e test > test-output/report.txt 2>&1  # Run tests and capture both stdout and stderr
                 '''
             }
         }
         stage('Report') {
             steps {
-                // Publish the Extent Report after tests
-                publishHTML(target: [
-                    reportName: 'Extent Report',
-                    reportDir: 'test-output',
-                    reportFiles: 'index.html',  // Ensure this file exists after tests
-                    keepAll: true
-                ])
+                script {
+                    // Check if the report file exists before attempting to publish
+                    if (fileExists('test-output/index.html')) {
+                        publishHTML(target: [
+                            reportName: 'Extent Report',
+                            reportDir: 'test-output',
+                            reportFiles: 'index.html',
+                            keepAll: true
+                        ])
+                    } else {
+                        echo 'Report file index.html not found. Skipping report publishing.'
+                    }
+                }
             }
         }
     }
