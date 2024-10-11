@@ -19,7 +19,7 @@ pipeline {
                 // Run tests using Maven and redirect output to a report file
                 sh '''
                     mkdir -p test-output  // Ensure the directory exists
-                    mvn test > test-output/report.txt  // Run tests and generate report
+                    mvn -X test > test-output/report.txt  // Run tests and generate report
                 '''
             }
         }
