@@ -1,0 +1,85 @@
+2024-10-10 23:33:32.257 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-10 23:33:32.272 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-10 23:33:32.984 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has {:.2f}% todos completed
+2024-10-10 23:33:33.695 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has {:.2f}% todos completed
+2024-10-10 23:33:34.252 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has {:.2f}% todos completed
+2024-10-10 23:44:06.694 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-10 23:44:06.705 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-10 23:44:06.849 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-10 23:44:07.450 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-10 23:44:08.071 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 00:21:54.244 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 00:21:54.256 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 00:21:54.440 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 00:21:54.610 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 00:21:54.732 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 00:32:37.752 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 00:32:37.761 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 00:32:37.929 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 00:32:38.099 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 00:32:38.722 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 00:32:54.692 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 00:32:54.700 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 00:32:54.844 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 00:32:54.987 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 00:32:55.116 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 00:50:14.924 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 00:50:14.939 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 00:50:15.073 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 00:50:15.196 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 00:50:15.315 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 11:50:33.661 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 11:50:33.669 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 11:50:33.821 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 11:50:33.977 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 11:50:34.085 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 11:57:39.736 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 11:57:39.745 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 11:57:39.867 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 11:57:39.990 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 11:57:40.108 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 12:04:20.882 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 12:04:20.892 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 12:04:21.023 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 12:04:21.143 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 12:04:21.271 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 12:07:18.128 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 12:07:18.140 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 12:07:18.265 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 12:07:18.385 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 12:07:18.979 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 12:18:25.231 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 12:18:25.244 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 12:18:25.434 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 12:18:25.609 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 12:18:25.734 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 12:19:14.007 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 12:19:14.016 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 12:19:14.142 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 12:19:14.462 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 12:19:14.614 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 12:36:04.635 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 12:36:04.647 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 12:36:04.776 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 12:36:04.903 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 12:36:05.023 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 12:37:55.385 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 12:37:55.394 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 12:37:55.531 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 12:37:55.680 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 12:37:55.789 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 16:40:24.560 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 16:40:24.574 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 16:40:24.712 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 16:40:24.837 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 16:40:24.964 [main] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 16:40:46.330 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 16:40:46.339 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 16:40:46.491 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 16:40:46.646 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 16:40:46.780 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
+2024-10-11 16:41:10.477 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Retrieved 10 users
+2024-10-11 16:41:10.487 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - Filtered 3 FanCode users
+2024-10-11 16:41:10.630 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 1 has 55.00% todos completed
+2024-10-11 16:41:10.783 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 5 has 60.00% todos completed
+2024-10-11 16:41:10.921 [TestNG-tests-1] INFO  com.fancode.stepdefinitions.FanCodeUserSteps - User 10 has 60.00% todos completed
