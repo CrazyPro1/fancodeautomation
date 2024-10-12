@@ -1,21 +1,25 @@
 package com.fancode.config;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
 public class ConfigReader {
+    private static final Logger LOGGER = LogManager.getLogger(ConfigReader.class);
     private static final Properties properties = new Properties();
 
     static {
         try (InputStream input = ConfigReader.class.getClassLoader().getResourceAsStream("config.properties")) {
             if (input == null) {
-                System.out.println("Sorry, unable to find config.properties");
+                LOGGER.error("Sorry, unable to find config.properties");
             } else {
                 properties.load(input);
             }
         } catch (IOException ex) {
-            ex.printStackTrace();
+            LOGGER.error("Error loading config.properties", ex);
         }
     }
 
